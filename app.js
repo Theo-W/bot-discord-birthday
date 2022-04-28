@@ -17,4 +17,4 @@ client.on("messageCreate", async message => {
     }
 })
 
-client.login("OTY0MjA5Mzk2NDc5NTU3NjU0.YlhT-g.0H8bMxwPMJxUQDagYZO-lbAMIpo")
+client.login("#")
